@@ -1,3 +1,13 @@
+# SB SANDBOX
+
+A flask+react app for fucking around. Lets just build this out progressively.
+
+### Getting Started
+
+Clone the repo and config. Not positive as to what exactly those are as of now, will set up soon.
+
+## React Side Front End
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
